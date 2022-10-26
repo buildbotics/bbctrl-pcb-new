@@ -1305,7 +1305,7 @@
     (path "/15e1e1b6-b278-4e13-8221-f9f8917bc709/df69ee6b-3985-4ec9-ab04-8c080b33c218"
       (reference "#PWR0109") (unit 1) (value "GND") (footprint "")
     )
-    (path "/15e1e1b6-b278-4e13-8221-f9f8917bc709/ff387299-d64d-486a-b3ca-89074c7126a0"
+    (path "/15e1e1b6-b278-4e13-8221-f9f8917bc709/3001f306-f976-4c41-aa31-5ed95c90e458"
       (reference "#PWR0110") (unit 1) (value "GND") (footprint "")
     )
     (path "/15e1e1b6-b278-4e13-8221-f9f8917bc709/4e916d01-9ce8-4d59-a657-fa1b14ffa394"
@@ -2628,11 +2628,11 @@
     (path "/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6/a9417cdc-2424-4304-aaf6-a0b0354c7ed7/25c47cbe-8130-4d39-8fc6-fb6d8b171f6e"
       (reference "U28") (unit 1) (value "SN74AHC1G125DBVR") (footprint "Project_Footprints_Library:SN74AHC1G125DBVR")
     )
-    (path "/7b65f6db-5358-4955-b729-25fdf7672490/04e01a04-e027-4379-a31e-d6b17f499577"
-      (reference "U29") (unit 1) (value "LM358") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+    (path "/7b65f6db-5358-4955-b729-25fdf7672490/06f0e730-5899-468b-81b8-9fa563ee1808"
+      (reference "U29") (unit 1) (value "LM358") (footprint "")
     )
-    (path "/7b65f6db-5358-4955-b729-25fdf7672490/d7a52671-4293-457a-be13-177788ec5652"
-      (reference "U29") (unit 3) (value "LM358") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+    (path "/7b65f6db-5358-4955-b729-25fdf7672490/4b9ce942-1e57-4713-9274-bc8c0f10e257"
+      (reference "U29") (unit 3) (value "LM358") (footprint "")
     )
     (path "/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6/234ed653-6168-4e1d-9ea7-a392fb94fef4"
       (reference "X1") (unit 1) (value "ABLS-16.000MHZ-B4-T") (footprint "Project_Footprints_Library:ABLS-16.000MHZ-B4-T")
