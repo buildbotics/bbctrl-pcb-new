@@ -8,7 +8,7 @@
     (title "Main Page")
     (date "2022-10-26")
     (company "Buildbotics LLC")
-    (comment 1 "Copyrught (c) 2016-2022, Buildbotics LLC")
+    (comment 1 "Copyright (c) 2016-2022, Buildbotics LLC")
     (comment 2 "Licensed under CERN-OHL-S v2 ")
   )
 
@@ -2629,10 +2629,10 @@
       (reference "U28") (unit 1) (value "SN74AHC1G125DBVR") (footprint "Project_Footprints_Library:SN74AHC1G125DBVR")
     )
     (path "/7b65f6db-5358-4955-b729-25fdf7672490/06f0e730-5899-468b-81b8-9fa563ee1808"
-      (reference "U29") (unit 1) (value "LM358") (footprint "")
+      (reference "U29") (unit 1) (value "LM358") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/7b65f6db-5358-4955-b729-25fdf7672490/4b9ce942-1e57-4713-9274-bc8c0f10e257"
-      (reference "U29") (unit 3) (value "LM358") (footprint "")
+      (reference "U29") (unit 3) (value "LM358") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6/234ed653-6168-4e1d-9ea7-a392fb94fef4"
       (reference "X1") (unit 1) (value "ABLS-16.000MHZ-B4-T") (footprint "Project_Footprints_Library:ABLS-16.000MHZ-B4-T")

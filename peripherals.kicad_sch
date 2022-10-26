@@ -7,7 +7,7 @@
   (title_block
     (title "Peripherals")
     (company "Buildbotics LLC")
-    (comment 1 "Copyrught (c) 2016-2022, Buildbotics LLC")
+    (comment 1 "Copyright (c) 2016-2022, Buildbotics LLC")
     (comment 2 "Licensed under CERN-OHL-S v2 ")
   )
 
@@ -1872,7 +1872,7 @@
     (uuid 06f0e730-5899-468b-81b8-9fa563ee1808)
     (property "Reference" "U29" (id 0) (at 197.358 98.552 0))
     (property "Value" "LM358" (id 1) (at 194.564 102.108 0))
-    (property "Footprint" "" (id 2) (at 195.58 102.108 0)
+    (property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" (id 2) (at 195.58 102.108 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf" (id 3) (at 195.58 102.108 0)
@@ -2261,7 +2261,7 @@
     (property "Value" "LM358" (id 1) (at 193.675 103.5562 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Footprint" "" (id 2) (at 195.58 101.854 0)
+    (property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" (id 2) (at 195.58 101.854 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf" (id 3) (at 195.58 101.854 0)
