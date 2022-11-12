@@ -297,7 +297,7 @@
     (property "Reference" "C15" (id 0) (at 172.847 74.3493 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "~" (id 1) (at 172.847 76.8862 0)
+    (property "Value" ".1uF" (id 1) (at 172.847 76.8862 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (id 2) (at 170.8912 78.994 0)
