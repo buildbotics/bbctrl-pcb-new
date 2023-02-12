@@ -34,8 +34,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 4.41,
-          "width": 3.75
+          "height": 0.3556,
+          "width": 1.4732
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -458,10 +458,6 @@
       "Power Supply"
     ],
     [
-      "539fdb2e-81a0-4326-b09b-c977c444f5d3",
-      "3to5_1"
-    ],
-    [
       "3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6",
       "Microprocessor"
     ],
@@ -532,6 +528,10 @@
     [
       "2271974a-e966-4a72-869e-f0dde9603f54",
       "3to5_16"
+    ],
+    [
+      "0f0648da-b777-4b86-9593-c9dad3aa2b60",
+      "3V_to_5V"
     ],
     [
       "a9417cdc-2424-4304-aaf6-a0b0354c7ed7",
