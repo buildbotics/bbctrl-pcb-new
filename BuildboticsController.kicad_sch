@@ -2608,10 +2608,10 @@
       (reference "U27") (unit 1) (value "SN74AHC1G125DBVR") (footprint "Project_Footprints_Library:SN74AHC1G125DBVR")
     )
     (path "/7b65f6db-5358-4955-b729-25fdf7672490/3f217030-9ef7-42d3-93fa-475443c1886a"
-      (reference "U29") (unit 1) (value "LM358") (footprint "")
+      (reference "U29") (unit 1) (value "LM358") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/7b65f6db-5358-4955-b729-25fdf7672490/056b5978-2c03-43f6-8eb3-4c339658657b"
-      (reference "U29") (unit 3) (value "LM358") (footprint "")
+      (reference "U29") (unit 3) (value "LM358") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6/234ed653-6168-4e1d-9ea7-a392fb94fef4"
       (reference "X1") (unit 1) (value "ABLS-16.000MHZ-B4-T") (footprint "Project_Footprints_Library:ABLS-16.000MHZ-B4-T")
