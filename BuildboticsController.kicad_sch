@@ -1397,6 +1397,9 @@
     (path "/97e3fd08-569d-495e-8379-eb1eff2e1f2f/70c23610-b1fa-4891-9833-8bd58a5041d9"
       (reference "#PWR0141") (unit 1) (value "GND") (footprint "")
     )
+    (path "/2c50321d-3924-4dc6-91c5-3e71751f45d8/a887606f-0616-470e-b796-fcf783031932"
+      (reference "#PWR0142") (unit 1) (value "GND") (footprint "")
+    )
     (path "/97e3fd08-569d-495e-8379-eb1eff2e1f2f/ada159c3-1f2c-4644-8e06-a70904092d9a"
       (reference "#PWR0143") (unit 1) (value "GND") (footprint "")
     )
@@ -1969,6 +1972,9 @@
     )
     (path "/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6/cc6b23ac-3a37-4eb0-8e87-b49b222338b5"
       (reference "J15") (unit 1) (value "Conn_01x03") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
+    )
+    (path "/2c50321d-3924-4dc6-91c5-3e71751f45d8/d8985297-00b7-4ad0-841f-62171ec73c9c"
+      (reference "J16") (unit 1) (value "OLED") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
     (path "/15e1e1b6-b278-4e13-8221-f9f8917bc709/72fbf500-599f-4dc5-aaf1-cb23aa15c3be"
       (reference "L1") (unit 1) (value "3.3uH") (footprint "Project_Footprints_Library:NRS5040T3R3NMGJ")
