@@ -1611,7 +1611,7 @@
       (reference "#PWR0232") (unit 1) (value "GND") (footprint "")
     )
     (path "/0dbbb808-fb91-4aca-9327-1848378836e4/d64ffd03-a2b6-45b3-8e05-92b8bd3c951c"
-      (reference "C1") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C1") (unit 1) (value ".1uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/0dbbb808-fb91-4aca-9327-1848378836e4/cab769e2-9146-46f1-8f9e-8da68cb1b12c"
       (reference "C2") (unit 1) (value "100uF") (footprint "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
@@ -1653,7 +1653,7 @@
       (reference "C14") (unit 1) (value "130pF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/97e3fd08-569d-495e-8379-eb1eff2e1f2f/d64ffd03-a2b6-45b3-8e05-92b8bd3c951c"
-      (reference "C15") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C15") (unit 1) (value ".1uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/15e1e1b6-b278-4e13-8221-f9f8917bc709/c6e8c22f-4869-4f89-94c8-26a8dd54aa8d"
       (reference "C16") (unit 1) (value ".22uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
@@ -1758,7 +1758,7 @@
       (reference "C49") (unit 1) (value "100uF") (footprint "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
     )
     (path "/9494c3d6-e141-494d-a456-2266c0b50615/d64ffd03-a2b6-45b3-8e05-92b8bd3c951c"
-      (reference "C56") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C56") (unit 1) (value ".1uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/9494c3d6-e141-494d-a456-2266c0b50615/74ad5344-0ef3-4c3d-89ad-f699779f7064"
       (reference "C57") (unit 1) (value ".1u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
@@ -1785,7 +1785,7 @@
       (reference "C65") (unit 1) (value "100uF") (footprint "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
     )
     (path "/ffa1dde0-7f4d-414b-b95e-6a92cfa51cba/d64ffd03-a2b6-45b3-8e05-92b8bd3c951c"
-      (reference "C68") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C68") (unit 1) (value ".1uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6/77538e03-f4b5-4f11-acaa-84d13851ed96"
       (reference "C69") (unit 1) (value "130pF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
