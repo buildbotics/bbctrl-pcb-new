@@ -2226,7 +2226,7 @@
       (reference "TP1") (unit 1) (value "TP_DGATE") (footprint "Project_Footprints_Library:test_point")
     )
     (path "/15e1e1b6-b278-4e13-8221-f9f8917bc709/06a812d3-0cc0-42f0-82fe-f2823418d808"
-      (reference "TP2") (unit 1) (value "TP_HGATE") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical")
+      (reference "TP2") (unit 1) (value "TP_HGATE") (footprint "Project_Footprints_Library:test_point")
     )
     (path "/15e1e1b6-b278-4e13-8221-f9f8917bc709/5860b50c-0022-4153-8182-e3a5ae74aa80"
       (reference "TP3") (unit 1) (value "TP_VDD") (footprint "Project_Footprints_Library:test_point")
@@ -2241,13 +2241,13 @@
       (reference "TP6") (unit 1) (value "TP_PGOOD") (footprint "Project_Footprints_Library:test_point")
     )
     (path "/15e1e1b6-b278-4e13-8221-f9f8917bc709/a17f17cd-2845-4e83-aed1-18ac15079aee"
-      (reference "TP7") (unit 1) (value "TP_GATE") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical")
+      (reference "TP7") (unit 1) (value "TP_GATE") (footprint "Project_Footprints_Library:test_point")
     )
     (path "/15e1e1b6-b278-4e13-8221-f9f8917bc709/40dffcf8-5870-4f91-93c1-ef0522765fb8"
       (reference "TP8") (unit 1) (value "TP_GATE") (footprint "Project_Footprints_Library:test_point")
     )
     (path "/15e1e1b6-b278-4e13-8221-f9f8917bc709/7825b438-b821-479c-bf9c-8f1d76fa5132"
-      (reference "TP9") (unit 1) (value "TP_FB") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical")
+      (reference "TP9") (unit 1) (value "TP_FB") (footprint "Project_Footprints_Library:test_point")
     )
     (path "/15e1e1b6-b278-4e13-8221-f9f8917bc709/60998e1e-5a5d-4acb-955c-14f3b81f9d8e"
       (reference "TP10") (unit 1) (value "TP_3.3V") (footprint "Project_Footprints_Library:test_point")
@@ -2289,13 +2289,37 @@
       (reference "TP22") (unit 1) (value "TP_nHOME") (footprint "Project_Footprints_Library:test_point")
     )
     (path "/7b65f6db-5358-4955-b729-25fdf7672490/286e45e1-cda3-4f2f-b0d6-895987a115c2"
-      (reference "TP23") (unit 1) (value "12V") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+      (reference "TP23") (unit 1) (value "12V") (footprint "Project_Footprints_Library:test_point")
     )
     (path "/15e1e1b6-b278-4e13-8221-f9f8917bc709/38002a82-0886-4a46-8f56-9a18e2ba7c21"
       (reference "TP24") (unit 1) (value "Vin") (footprint "Project_Footprints_Library:test_point")
     )
     (path "/ffa1dde0-7f4d-414b-b95e-6a92cfa51cba/e7ce7f84-6564-462d-9e0b-2b80a2866c6a"
       (reference "TP25") (unit 1) (value "TP_nFAULT") (footprint "Project_Footprints_Library:test_point")
+    )
+    (path "/7b65f6db-5358-4955-b729-25fdf7672490/37429d4a-ed72-4112-a9b8-3369ee62ce7d"
+      (reference "TP26") (unit 1) (value "TP_nSLP") (footprint "Project_Footprints_Library:test_point")
+    )
+    (path "/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6/d6104223-c83f-4fd1-a899-d7bba4fc6bdd"
+      (reference "TP27") (unit 1) (value "CS1") (footprint "Project_Footprints_Library:test_point")
+    )
+    (path "/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6/1c35635f-6597-4a4a-8b91-b8909b5f694a"
+      (reference "TP28") (unit 1) (value "CS2") (footprint "Project_Footprints_Library:test_point")
+    )
+    (path "/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6/43a80de6-fff7-4a32-b17e-a4d1d93c77b0"
+      (reference "TP29") (unit 1) (value "CS1") (footprint "Project_Footprints_Library:test_point")
+    )
+    (path "/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6/d936b7f7-6145-4732-8358-4ce463040b6d"
+      (reference "TP30") (unit 1) (value "CS0") (footprint "Project_Footprints_Library:test_point")
+    )
+    (path "/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6/008515da-76e1-4cf6-943d-70a1155c0f0d"
+      (reference "TP31") (unit 1) (value "sck") (footprint "Project_Footprints_Library:test_point")
+    )
+    (path "/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6/927517cf-1638-4782-8bed-103b54ee2ee2"
+      (reference "TP32") (unit 1) (value "mosi") (footprint "Project_Footprints_Library:test_point")
+    )
+    (path "/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6/8d1791ff-f747-47d6-88e4-3b12a87cf8ce"
+      (reference "TP33") (unit 1) (value "miso") (footprint "Project_Footprints_Library:test_point")
     )
     (path "/97e3fd08-569d-495e-8379-eb1eff2e1f2f/e6f2bee2-826f-4ee8-ae5c-02d2e4de88fc"
       (reference "U1") (unit 1) (value "DRV8462DDWR") (footprint "Project_Footprints_Library:DDW44_8P26X4P31")
@@ -2304,10 +2328,10 @@
       (reference "U2") (unit 1) (value "ATtiny1616-S") (footprint "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm")
     )
     (path "/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6/616fb201-c8a4-4d3c-b920-fd073e7fd678"
-      (reference "U3") (unit 1) (value "ATxmega192A3U-A") (footprint "Package_QFP:TQFP-64_14x14mm_P0.8mm")
+      (reference "U3") (unit 1) (value "ATXMEGA256A3U-AU") (footprint "Package_QFP:TQFP-64_14x14mm_P0.8mm")
     )
     (path "/15e1e1b6-b278-4e13-8221-f9f8917bc709/3e39e7bf-67a5-43e8-a288-fc4587778184"
-      (reference "U4") (unit 1) (value "TSC2012IDT") (footprint "Project_Footprints_Library:TSC2012IDT")
+      (reference "U4") (unit 1) (value "TSC2012IYST") (footprint "Package_SO:MSOP-8_3x3mm_P0.65mm")
     )
     (path "/7b65f6db-5358-4955-b729-25fdf7672490/34c9dd5c-6f6e-4771-8672-0238a632a6a7"
       (reference "U5") (unit 1) (value "SN74LVC4245APWR") (footprint "Project_Footprints_Library:PW24")
@@ -2319,7 +2343,7 @@
       (reference "U7") (unit 1) (value "AZ1117IH-3.3TRG1") (footprint "Project_Footprints_Library:SOT230P700X180-4N")
     )
     (path "/15e1e1b6-b278-4e13-8221-f9f8917bc709/16111314-63c0-47ef-a6c4-83fadddb9c17"
-      (reference "U8") (unit 1) (value "LM74800QDRRRQ1") (footprint "Project_Footprints_Library:LM74800QDRRRQ1")
+      (reference "U8") (unit 1) (value "LM74801QDRRRQ1") (footprint "Project_Footprints_Library:LM74800QDRRRQ1")
     )
     (path "/7b65f6db-5358-4955-b729-25fdf7672490/194b3da1-f8e4-4559-80b3-80dc578ba7e8"
       (reference "U9") (unit 1) (value "SN74LVC4245APWR") (footprint "Project_Footprints_Library:PW24")
