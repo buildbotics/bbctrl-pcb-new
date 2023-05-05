@@ -1920,10 +1920,10 @@
       (reference "J1") (unit 2) (value "43045-0402") (footprint "Project_Footprints_Library:Molex-43045-0402-MFG")
     )
     (path "/15e1e1b6-b278-4e13-8221-f9f8917bc709/cd56ac28-d9ff-4fe5-bef8-75b882710a4a"
-      (reference "J2") (unit 1) (value "39-30-0060") (footprint "Molex-39-30-0060-*")
+      (reference "J2") (unit 1) (value "39-30-0060") (footprint "Project_Footprints_Library:Molex-39-30-0060-MFG")
     )
     (path "/15e1e1b6-b278-4e13-8221-f9f8917bc709/8d1cf933-2250-410b-9741-7811f36d4629"
-      (reference "J2") (unit 2) (value "39-30-0060") (footprint "Molex-39-30-0060-*")
+      (reference "J2") (unit 2) (value "39-30-0060") (footprint "Project_Footprints_Library:Molex-39-30-0060-MFG")
     )
     (path "/15e1e1b6-b278-4e13-8221-f9f8917bc709/a1eb01ad-82a5-4023-ac38-fcc1a177a7f1"
       (reference "J3") (unit 1) (value "ENABLE") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
