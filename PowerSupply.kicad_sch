@@ -4967,7 +4967,7 @@
     (property "Datasheet" "~" (id 3) (at 163.83 177.165 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Model" "RC0805FR-071K82" (id 4) (at 163.83 177.165 0)
+    (property "Model" "RC0805FR-071K82L" (id 4) (at 163.83 177.165 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 96a56d91-be4f-417b-a275-7209b55c7f04))
