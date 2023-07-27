@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>/home/doug/build/bbctrl-pcb-new/BuildboticsController.kicad_sch</source>
+    <source>BuildboticsController.kicad_sch</source>
     <date>Fri 28 Apr 2023 01:14:06 PM PDT</date>
     <tool>Eeschema 6.0.9+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
@@ -4808,7 +4808,7 @@
   </libparts>
   <libraries>
     <library logical="1LibBBCTRL">
-      <uri>/home/doug/Downloads/KiCAD/2022-08-19_21-58-35/1LibBBCTRL.kicad_sym</uri>
+      <uri>1LibBBCTRL.kicad_sym</uri>
     </library>
     <library logical="Connector">
       <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>

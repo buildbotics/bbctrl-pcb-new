@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name "1LibBBCTRL")(type "KiCad")(uri "/home/doug/Downloads/KiCAD/2022-08-19_21-58-35/1LibBBCTRL.kicad_sym")(options "")(descr ""))
+  (lib (name "1LibBBCTRL")(type "KiCad")(uri "${KIPRJMOD}/1LibBBCTRL.kicad_sym")(options "")(descr ""))
 )
