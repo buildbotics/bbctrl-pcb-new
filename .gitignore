@@ -2,3 +2,6 @@
 /*-backups
 *-bak
 /fp-info-cache
+/fab
+*.tmp
+*.csv

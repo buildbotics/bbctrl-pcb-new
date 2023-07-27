@@ -35,8 +35,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.3,
-          "width": 1.4612
+          "height": 0.3556,
+          "width": 1.4732
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -46,7 +46,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.09999999999999999
+          "min_clearance": 0.25
         }
       },
       "diff_pair_dimensions": [
@@ -392,18 +392,23 @@
     "rule_severities": {
       "bus_definition_conflict": "error",
       "bus_entry_needed": "error",
-      "bus_label_syntax": "error",
       "bus_to_bus_conflict": "error",
       "bus_to_net_conflict": "error",
+      "conflicting_netclasses": "error",
       "different_unit_footprint": "error",
       "different_unit_net": "error",
       "duplicate_reference": "error",
       "duplicate_sheet_names": "error",
+      "endpoint_off_grid": "warning",
       "extra_units": "error",
       "global_label_dangling": "warning",
       "hier_label_mismatch": "error",
       "label_dangling": "error",
       "lib_symbol_issues": "warning",
+      "missing_bidi_pin": "warning",
+      "missing_input_pin": "warning",
+      "missing_power_pin": "error",
+      "missing_unit": "warning",
       "multiple_net_names": "warning",
       "net_not_bus_member": "warning",
       "no_connect_connected": "warning",
@@ -413,6 +418,7 @@
       "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
+      "simulation_model_issue": "ignore",
       "unannotated": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
@@ -468,6 +474,8 @@
   "schematic": {
     "annotate_start_num": 0,
     "drawing": {
+      "dashed_lines_dash_length_ratio": 12.0,
+      "dashed_lines_gap_length_ratio": 3.0,
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
       "field_names": [],
@@ -499,7 +507,11 @@
     "page_layout_descr_file": "DrawingSheetLayout.kicad_wks",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
+    "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
+    "spice_model_current_sheet_as_root": true,
+    "spice_save_all_currents": false,
+    "spice_save_all_voltages": false,
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
@@ -517,10 +529,6 @@
       "Power Supply"
     ],
     [
-      "97e3fd08-569d-495e-8379-eb1eff2e1f2f",
-      "MotorDriver1"
-    ],
-    [
       "3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6",
       "Microprocessor"
     ],
@@ -529,12 +537,76 @@
       "Peripherals"
     ],
     [
-      "9494c3d6-e141-494d-a456-2266c0b50615",
+      "592128a3-1569-44ad-8531-0245ae8c56ed",
+      "MotorDriver1"
+    ],
+    [
+      "e7fccdc6-eaa3-4b15-8a46-061004b9b736",
+      "3to5_12"
+    ],
+    [
+      "c685b169-3dbf-4196-92d4-f39b4e8bd196",
       "MotorDriver2"
     ],
     [
-      "ffa1dde0-7f4d-414b-b95e-6a92cfa51cba",
+      "2c7a0987-643f-4f73-bdef-a41a77343a1c",
       "MotorDriver3"
+    ],
+    [
+      "7ae97fbc-b32b-4444-aab0-80300a3f3875",
+      "3to5_3"
+    ],
+    [
+      "bcbd1d18-8a29-4a65-81de-0924a31382a8",
+      "3to5_4"
+    ],
+    [
+      "162445ff-f653-4fc4-88d5-5b512f6d58f2",
+      "3to5_5"
+    ],
+    [
+      "fc2c8b20-7ced-44e1-9bd0-0c1868bfc0fe",
+      "3to5_6"
+    ],
+    [
+      "76c04cd0-8257-4c7d-b878-52697c143c99",
+      "3to5_7"
+    ],
+    [
+      "f01e92d1-3ebb-4869-8789-d360c912a5d8",
+      "3to5_8"
+    ],
+    [
+      "22f513e1-2d0b-42a3-93b9-7d1fc0f3e7ae",
+      "3to5_9"
+    ],
+    [
+      "861306e3-ae66-4edf-a865-56b7a91ad832",
+      "3to5_10"
+    ],
+    [
+      "866a1e77-3898-4675-ae7e-206edd135015",
+      "3to5_13"
+    ],
+    [
+      "3cd259a8-cc54-4876-80f3-884a068e413a",
+      "3to5_14"
+    ],
+    [
+      "58bfc332-8446-46b1-b9bf-8a457c28bb3e",
+      "3to5_15"
+    ],
+    [
+      "2271974a-e966-4a72-869e-f0dde9603f54",
+      "3to5_16"
+    ],
+    [
+      "0f0648da-b777-4b86-9593-c9dad3aa2b60",
+      "3V_to_5V"
+    ],
+    [
+      "db1c02e9-6be9-4c02-93db-34d7e8ec71c4",
+      "3_to_5_17"
     ],
     [
       "2c50321d-3924-4dc6-91c5-3e71751f45d8",
