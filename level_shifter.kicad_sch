@@ -414,7 +414,7 @@
   (symbol (lib_name "SN74AHC1G125DBVR_1") (lib_id "1LibBBCTRL:SN74AHC1G125DBVR") (at 109.22 83.82 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7c461743-9e08-40dd-8867-a8c94febd44e)
-    (property "Reference" "U28" (at 125.095 77.47 0)
+    (property "Reference" "U5" (at 125.095 77.47 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "SN74AHC1G125DBVR" (at 128.27 73.66 0)
@@ -437,49 +437,49 @@
     (instances
       (project "BuildboticsController"
         (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6/e7fccdc6-eaa3-4b15-8a46-061004b9b736"
-          (reference "U28") (unit 1)
+          (reference "U5") (unit 1)
         )
         (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6/7ae97fbc-b32b-4444-aab0-80300a3f3875"
-          (reference "U30") (unit 1)
+          (reference "U17") (unit 1)
         )
         (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6/bcbd1d18-8a29-4a65-81de-0924a31382a8"
-          (reference "U31") (unit 1)
+          (reference "U18") (unit 1)
         )
         (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6/162445ff-f653-4fc4-88d5-5b512f6d58f2"
-          (reference "U32") (unit 1)
+          (reference "U19") (unit 1)
         )
         (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6/fc2c8b20-7ced-44e1-9bd0-0c1868bfc0fe"
-          (reference "U33") (unit 1)
+          (reference "U20") (unit 1)
         )
         (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6/76c04cd0-8257-4c7d-b878-52697c143c99"
-          (reference "U34") (unit 1)
+          (reference "U21") (unit 1)
         )
         (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6/f01e92d1-3ebb-4869-8789-d360c912a5d8"
-          (reference "U35") (unit 1)
+          (reference "U22") (unit 1)
         )
         (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6/22f513e1-2d0b-42a3-93b9-7d1fc0f3e7ae"
-          (reference "U36") (unit 1)
+          (reference "U23") (unit 1)
         )
         (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6/861306e3-ae66-4edf-a865-56b7a91ad832"
-          (reference "U37") (unit 1)
+          (reference "U24") (unit 1)
         )
         (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6/866a1e77-3898-4675-ae7e-206edd135015"
-          (reference "U38") (unit 1)
+          (reference "U13") (unit 1)
         )
         (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6/3cd259a8-cc54-4876-80f3-884a068e413a"
-          (reference "U39") (unit 1)
+          (reference "U14") (unit 1)
         )
         (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6/58bfc332-8446-46b1-b9bf-8a457c28bb3e"
-          (reference "U40") (unit 1)
+          (reference "U15") (unit 1)
         )
         (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6/2271974a-e966-4a72-869e-f0dde9603f54"
-          (reference "U41") (unit 1)
+          (reference "U26") (unit 1)
         )
         (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/15e1e1b6-b278-4e13-8221-f9f8917bc709/0f0648da-b777-4b86-9593-c9dad3aa2b60"
-          (reference "U42") (unit 1)
+          (reference "U10") (unit 1)
         )
         (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/7b65f6db-5358-4955-b729-25fdf7672490/db1c02e9-6be9-4c02-93db-34d7e8ec71c4"
-          (reference "U43") (unit 1)
+          (reference "U27") (unit 1)
         )
       )
     )

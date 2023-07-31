@@ -7415,7 +7415,7 @@
     (property "Datasheet" "~" (at 95.25 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Model" "CL21B223KBANNNC" (at 95.25 153.67 0)
+    (property "Model" "c0805c333k5ractu" (at 95.25 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 395ea710-457f-4496-8b81-e2fab770e0c0))
