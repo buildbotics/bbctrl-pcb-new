@@ -706,10 +706,6 @@
           (name "D" (effects (font (size 1.27 1.27))))
           (number "8" (effects (font (size 1.27 1.27))))
         )
-        (pin passive line (at -5.08 0 0) (length 2.54) hide
-          (name "D" (effects (font (size 1.27 1.27))))
-          (number "9" (effects (font (size 1.27 1.27))))
-        )
       )
     )
     (symbol "1LibBBCTRL:DDZ6V2BQ-7" (pin_names (offset 0.762)) (in_bom yes) (on_board yes)
@@ -6658,7 +6654,7 @@
     (property "Value" "BSC040N08NS5ATMA1" (at 133.35 12.8579 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "Package_TO_SOT_SMD:TDSON-8-1" (at 142.24 13.97 0)
+    (property "Footprint" "INFINEON_PG-TDSON-8-5" (at 142.24 13.97 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://www.infineon.com/dgdl/Infineon-BSC040N08NS5-DS-v02_00-EN.pdf?fileId=5546d4624ad04ef9014ae3065a7e2a05" (at 142.24 16.51 0)
@@ -6702,10 +6698,9 @@
     (pin "3" (uuid fffc3cfd-5c5e-4ec9-900d-f771d79162f1))
     (pin "4" (uuid 9cfa3443-b0ab-4cd9-9de6-8f50bcec3822))
     (pin "5" (uuid f5b382f2-aa7b-4738-a65b-9392d972d9a1))
-    (pin "6" (uuid d58c6b54-feeb-430d-ba47-dd853a2d9220))
-    (pin "7" (uuid 613870b2-fdf7-47b3-a893-2e5ebda21498))
-    (pin "8" (uuid 59423f47-4980-471d-8124-95a7501a5759))
-    (pin "9" (uuid feda3bb9-fd37-4c6e-8a78-116346d430cc))
+    (pin "6" (uuid 64eb5fb6-f5ac-4581-a12d-7a4997d482a7))
+    (pin "7" (uuid 0c019d6d-0283-4650-92a4-e61a814bc281))
+    (pin "8" (uuid 40ab44b7-fa00-48ed-95dd-6fa8d8e667c4))
     (instances
       (project "BuildboticsController"
         (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/15e1e1b6-b278-4e13-8221-f9f8917bc709"
@@ -8267,7 +8262,7 @@
     (property "Value" "BSC040N08NS5ATMA1" (at 77.47 12.8579 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "Package_TO_SOT_SMD:TDSON-8-1" (at 68.58 13.97 0)
+    (property "Footprint" "INFINEON_PG-TDSON-8-5" (at 68.58 13.97 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://www.infineon.com/dgdl/Infineon-BSC040N08NS5-DS-v02_00-EN.pdf?fileId=5546d4624ad04ef9014ae3065a7e2a05" (at 68.58 16.51 0)
@@ -8311,10 +8306,9 @@
     (pin "3" (uuid ece12bd1-f6b4-4f9c-ac90-0874dc444887))
     (pin "4" (uuid 83b9eaa1-1783-48c3-aec0-203eac578c6b))
     (pin "5" (uuid 28ba5ae7-21ec-4612-a78f-858e05ddaee9))
-    (pin "6" (uuid dad368e7-7604-4a74-9222-4f5625c2df53))
-    (pin "7" (uuid 05b6387f-e363-4ecf-af8b-f25d4de8a8a9))
-    (pin "8" (uuid de119295-870d-4a93-b824-3f3c8ac2a461))
-    (pin "9" (uuid 2b549f0b-772c-4486-bb8f-ccf50b28f52d))
+    (pin "6" (uuid 88b7cc1e-43a2-456f-bec1-9c6ac4bbfd65))
+    (pin "7" (uuid aef5d225-3c91-4bd4-ad7e-ed83bec91a90))
+    (pin "8" (uuid b7f0f545-2811-43f9-a432-71aab3304f60))
     (instances
       (project "BuildboticsController"
         (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/15e1e1b6-b278-4e13-8221-f9f8917bc709"
