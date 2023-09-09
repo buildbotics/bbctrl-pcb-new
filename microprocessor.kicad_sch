@@ -2199,7 +2199,7 @@
     (property "Datasheet" "~" (at 208.28 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c8b40b5f-c02a-4d7e-be16-14eeb5ac4f35))
+    (pin "1" (uuid 522cd8a0-d2f7-4225-bfc9-85bdeff0fe95))
     (instances
       (project "BuildboticsController"
         (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6"
@@ -2508,35 +2508,6 @@
     )
   )
 
-  (symbol (lib_id "Device:R_US") (at 157.48 129.54 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 298cda7e-d5cb-41d3-951b-7a61e80aaf9d)
-    (property "Reference" "R67" (at 157.48 132.08 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "180" (at 150.876 128.016 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 157.734 128.524 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 157.48 129.54 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Model" "RMCF0805JT180R" (at 157.48 129.54 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 497b2c7a-5c90-482d-9c2d-f02188d54c91))
-    (pin "2" (uuid 86e63946-c69e-400d-bc6b-676e71c28c01))
-    (instances
-      (project "BuildboticsController"
-        (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6"
-          (reference "R67") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "1LibBBCTRL:CDBW46-G") (at 67.31 106.68 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2b5200de-2550-444b-aa24-d88f76df133a)
@@ -2561,35 +2532,6 @@
       (project "BuildboticsController"
         (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6"
           (reference "D12") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:R_US") (at 161.29 124.46 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 35e94542-374a-42bd-aa57-db1c0746e8d7)
-    (property "Reference" "R66" (at 165.1 123.19 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "180" (at 157.226 125.984 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 161.544 123.444 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 161.29 124.46 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Model" "RMCF0805JT180R" (at 161.29 124.46 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 73d5a586-0b77-4c0a-b436-2c5cf496278c))
-    (pin "2" (uuid 9dc339ca-8e58-46c4-9d93-891502cf1b61))
-    (instances
-      (project "BuildboticsController"
-        (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6"
-          (reference "R66") (unit 1)
         )
       )
     )
@@ -2866,8 +2808,8 @@
     (property "Model" "RMCF0805JT180R" (at 199.39 127 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 70e117d5-a1f7-4a8d-a138-83255336f220))
-    (pin "2" (uuid fb895bae-861e-4777-9c01-9af066f4412c))
+    (pin "1" (uuid c3f02acd-a783-4b34-9ade-9024f40e6c7b))
+    (pin "2" (uuid fa03598f-b3ab-4898-b4a1-feaa02d1d02b))
     (instances
       (project "BuildboticsController"
         (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6"
@@ -2908,7 +2850,7 @@
     (property "Reference" "C69" (at 168.91 116.84 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "130pF" (at 159.766 120.65 90)
+    (property "Value" "130pF" (at 158.75 115.57 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (at 167.64 117.1448 0)
@@ -2920,8 +2862,8 @@
     (property "Model" "08055A131JAT2A" (at 163.83 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f120249d-fa58-43d5-b763-12e3766515f0))
-    (pin "2" (uuid 5da183cd-9239-4de9-9d11-f9553c277dd8))
+    (pin "1" (uuid 2c86f6aa-03fc-4e35-84d2-3b0d88190f50))
+    (pin "2" (uuid a9267734-d43f-4238-a7a9-4104d5b9c22c))
     (instances
       (project "BuildboticsController"
         (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6"
@@ -2959,6 +2901,38 @@
       (project "BuildboticsController"
         (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6"
           (reference "J4") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:R_US") (at 161.29 124.46 90) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 799fc7f3-403d-42d9-8cec-f6e2b917eb74)
+    (property "Reference" "R12" (at 154.94 123.19 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "100" (at 161.29 122.4081 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 161.544 123.444 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 161.29 124.46 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Model" "RC0805FR-7W100RL" (at 161.29 124.46 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid de09b810-0e42-4ed2-bb9f-68fbffdd8986))
+    (pin "2" (uuid b68e0fb8-6bd5-444c-9a62-9bf076864f2b))
+    (instances
+      (project "BuildboticsController"
+        (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/15e1e1b6-b278-4e13-8221-f9f8917bc709"
+          (reference "R12") (unit 1)
+        )
+        (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6"
+          (reference "R66") (unit 1)
         )
       )
     )
@@ -3051,6 +3025,38 @@
     )
   )
 
+  (symbol (lib_id "Device:R_US") (at 157.48 129.54 90) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 85d095b2-c80f-4b6b-8955-b897b8c14257)
+    (property "Reference" "R12" (at 152.4 128.27 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "100" (at 161.29 128.27 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 157.734 128.524 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 157.48 129.54 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Model" "RC0805FR-7W100RL" (at 157.48 129.54 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid b4724e42-9817-4aa1-90d0-e2e62e97c9bf))
+    (pin "2" (uuid 678d6fea-6026-4e13-9644-17463ea1fa86))
+    (instances
+      (project "BuildboticsController"
+        (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/15e1e1b6-b278-4e13-8221-f9f8917bc709"
+          (reference "R12") (unit 1)
+        )
+        (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6"
+          (reference "R67") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_name "GND_5") (lib_id "power:GND") (at 17.78 76.2 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8bfe4faa-c3f0-4961-a133-6e0ddc00fbf7)
@@ -3120,7 +3126,7 @@
     (property "Datasheet" "~" (at 172.72 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9ea29c19-b8df-43a3-a80a-b051b185140f))
+    (pin "1" (uuid d998a4e5-f489-4ad5-ab7d-d9baa930471f))
     (instances
       (project "BuildboticsController"
         (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6"
@@ -3202,8 +3208,8 @@
     (property "Model" "RC0805JR-072K4L" (at 198.12 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e6615c78-be7c-4632-9ee8-0e21034eadc9))
-    (pin "2" (uuid 6b542f1c-d76d-421b-9ed7-4c7a9335d9db))
+    (pin "1" (uuid 3d0e323f-0bbb-4c1b-891b-8a5fb9b80ff3))
+    (pin "2" (uuid 4d755d3f-07f7-43a0-a63e-01d81702a1b4))
     (instances
       (project "BuildboticsController"
         (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6"
@@ -3652,7 +3658,7 @@
     (property "Datasheet" "" (at 158.75 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid aab4e624-6479-4991-ab53-038939919359))
+    (pin "1" (uuid 5f82a81b-2ac4-448a-83b0-cb2623ebeaa6))
     (instances
       (project "BuildboticsController"
         (path "/7f2164be-b8eb-4dbc-bc7c-152cd10e724f/3adf10c7-5d86-4ad9-b91c-31c97a8ff0e6"
