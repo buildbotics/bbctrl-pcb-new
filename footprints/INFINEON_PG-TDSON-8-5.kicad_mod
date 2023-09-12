@@ -3,7 +3,7 @@
   (descr "INFINEON_PG-TDSON-8-5")
   (tags "MOSFET (N-Channel)")
   (attr smd)
-  (fp_text reference "Q**" (at -1.00308 0.03194) (layer "F.SilkS")
+  (fp_text reference "Q**" (at -0.8 -4) (layer "F.SilkS")
       (effects (font (size 1.27 1.27) (thickness 0.254)))
     (tstamp 4960e24e-0db4-4fda-b9a2-28f567496817)
   )
@@ -38,4 +38,9 @@
   (pad "6" smd rect (at -2.925 -0.635 90) (size 0.6 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 79be50db-53c9-4068-a8d8-3bf56051fb09))
   (pad "7" smd rect (at -2.925 0.635 90) (size 0.6 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6f282ced-3c6a-45af-a16c-1f64aea05d19))
   (pad "8" smd rect (at -2.925 1.905 90) (size 0.6 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 29576045-dd4b-4ca3-b596-a5bdc31b6799))
+  (model "${KIPRJMOD}/models/PG-TDSON-8-5_INF.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
+  )
 )
