@@ -2,7 +2,7 @@
 Use Kicad.
 
 # License
-Copyright Buildbotics LLC 2016-2020.
+Copyright Buildbotics LLC 2016-2023.
 
 This source describes Open Hardware and is licensed under the CERN-OHL-S v2
 
